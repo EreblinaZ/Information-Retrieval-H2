@@ -1,0 +1,5 @@
+Search results for 'dite':
+Line 206 in index.txt: Kur zbardhi nje dite
+Line 51 in index2.txt: Nje dite me pak
+Positions of 'dite' in Line 206 of index.txt: [4]
+Positions of 'dite' in Line 51 of index2.txt: [2]

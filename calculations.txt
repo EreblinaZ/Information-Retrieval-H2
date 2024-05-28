@@ -1,0 +1,11 @@
+Total number of words in index.txt: 1142
+Total number of words in index2.txt: 203
+
+Calculations for term 'dite':
+	TF in index.txt: 0.0008756567425569177
+	TF in index2.txt: 0.0049261083743842365
+	IDF: 0.0
+	TF-IDF in index.txt: 0.0
+	TF-IDF in index2.txt: 0.0
+In document index.txt, the term 'dite' appears: 1 times
+In document index2.txt, the term 'dite' appears: 1 times
